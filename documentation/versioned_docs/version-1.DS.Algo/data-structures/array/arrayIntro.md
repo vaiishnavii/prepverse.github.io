@@ -1,6 +1,6 @@
 ---
 id: arrayIntro
-title: Introductio to Array
+title: Introduction to Array
 ---
 
 An array is a basic data structure to store a collection of elements sequentially. But elements can be accessed randomly since each element in the array can be identified by an array index.
